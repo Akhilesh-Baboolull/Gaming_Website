@@ -1,0 +1,62 @@
+@font-face{
+	font-family: 'saira';
+	src: url('custom-fonts/SairaStencilOne-Regular.ttf');
+}
+
+body{
+
+	background-color: black;
+}
+
+#text1{
+
+	font-weight: bold;
+	font-family: saira;
+	color: blue;
+	text-align: center;
+	font-size: 55px;
+
+}
+
+#rowmarg{
+	margin-bottom: 15px;
+}
+
+.caption{
+	color:grey;
+}
+
+.container{
+	margin-left: 100px;
+	margin-right: 100px;
+	height: 100%;
+	margin-bottom: 10px;
+}
+
+.smalldescp h2{
+	color:white;
+	font-family: sans-serif;
+	font-weight: bold;
+
+}
+
+.smalldescp p{
+	color:white;
+	font-family: sans-serif;
+}
+
+
+figure img{
+	opacity: 0.7;
+}
+
+figure img:hover{
+	opacity: 1;
+}
+
+
+
+
+.modal-content {
+  
+}

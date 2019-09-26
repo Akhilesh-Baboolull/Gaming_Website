@@ -1,0 +1,80 @@
+@font-face{
+	font-family: 'lobster';
+	src: url('custom-fonts/Lobster-Regular.ttf');
+}
+
+@font-face{
+	font-family: 'saira';
+	src: url('custom-fonts/SairaStencilOne-Regular.ttf');
+}
+
+body{
+	background-color: black;
+	color:white;
+	padding:0;
+	margin: 0;
+	height: 1000px;
+}
+
+#welcome{
+	font-size: 30px;
+	font-family: saira;
+	color: white;
+	text-align: center;
+}
+
+.text1 h2{
+
+	font-family: saira;
+	color: white;
+	text-align: center;
+
+}
+
+.text1 p{
+
+	font-family:cursive;
+	color:white;
+	text-align: left;
+	font-size: 15px;
+	text-align: center;
+	margin-right: 70px;
+	margin-left: 70px;
+
+}
+
+
+.container{
+
+	height: 100%;
+	margin-bottom: 10px;
+	
+}
+
+.caption{
+
+	font-family: lobster;
+	font-weight: bold;
+	color:rgb(49,139,230);
+}
+
+
+.pictxt{
+	white-space: none;
+	width: 300px;
+	height:100px;
+
+}
+
+.text1{
+	margin-bottom: 50px;
+}
+
+.row{
+	margin-top: 20px;
+}
+
+
+.text2{
+	font-family: cursive;
+}

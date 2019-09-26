@@ -1,0 +1,41 @@
+@font-face{
+	font-family: 'saira';
+	src: url('custom-fonts/SairaStencilOne-Regular.ttf');
+}
+
+body{
+	background-color: black;
+}
+
+#title1{
+	font-weight: bold;
+	font-family: saira;
+	color: blue;
+	text-align: center;
+	font-size: 55px;
+}
+
+
+#ico{
+	float: right;
+	margin-top: -90px;
+}
+
+.container{
+	color: white;
+	height: 100%;
+	margin-bottom: 10px;
+}
+
+.c-info{
+	font-size:25px;
+}
+
+#c-im{
+	float: right;
+	margin-top: -150px;
+
+}
+
+
+

@@ -1,0 +1,43 @@
+@font-face{
+	font-family: 'lobster';
+	src: url('../custom-fonts/Lobster-Regular.ttf');
+}
+
+.container h4{
+font-family: cursive;
+}
+
+.full-list{
+font-family: lobster;
+list-style-type: square;
+margin-left: 50px;
+
+}
+
+.sub-list{
+	list-style-type: none;
+}
+
+body{
+background-color: black;
+color: white;
+}
+
+.container ul{
+font-size: 18px;
+
+}
+
+aside{
+	float: right;
+	margin-right: 200px
+}
+
+.row{
+	margin-bottom: 30px;
+}
+
+.container{
+	height: 100%;
+	margin-bottom: 10px;
+}
